@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm Elif</h2>
 <p>I'm Front-end Developer</p>
 <p> <a href="https://www.linkedin.com/in/elifkirici/">
-<img align="right" widht="200px" <img src="https://github.com/demartini/demartini/blob/master/code.gif" />
+<img align="center" widht="200px" <img src="https://github.com/demartini/demartini/blob/master/code.gif" />
 <ul>
 <li>🔭 I’m currently working on <strong>Javascript.</strong></li>
 <li>🧐 Learning about <strong>React</strong></li>
